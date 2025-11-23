@@ -14,3 +14,8 @@ arduino, esp32, esp8266 codes for w5500
 # connection for esp32 to w5500
 - 3V --> V
 - GND --> GND
+- D2 --> RST
+- D5 --> CS
+- D23 --> MO
+- D19 --> MI
+- D18 --> SCK
